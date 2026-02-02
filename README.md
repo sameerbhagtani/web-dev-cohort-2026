@@ -2,26 +2,28 @@
 
 ### _The Ultimate Learning Archive & Proof of Work_
 
-This repository is the central "Source of Truth" for my journey through the ChaiCode Web Development Cohort, 2025. Led by [Hitesh Choudhary](https://chaicode.com) and [Piyush Garg](https://piyushgarg.dev), this archive documents every line of code, every bug fixed, and every concept mastered.
+This repository is the central "Source of Truth" for my journey through the ChaiCode Web Development Cohort, 2026. Led by [Hitesh Choudhary](https://chaicode.com) and [Piyush Garg](https://piyushgarg.dev), this archive documents every line of code, every bug fixed, and every concept mastered.
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-| Week            | Dates                 | Topic         | 🛠️ Assignments                   | Projects | ✍️ Blog Posts                       |
-| :-------------- | :-------------------- | :------------ | :------------------------------- | :------- | :---------------------------------- |
-| **Orientation** | 27 Dec, 22 Jan        | Git           | -                                | -        | [View](./blog-posts/orientation.md) |
-| **01**          | 17 Jan, 18 Jan        | Network & DNS | -                                | -        | [View](./blog-posts/week-01.md)     |
-| **02**          | 24 Jan, 25 Jan        | HTML & CSS    | [View](./assignments/week-02.md) | -        | [View](./blog-posts/week-02.md)     |
-| **03**          | 29 Jan, 31 Jan, 1 Feb | CSS Continued | [View](./assignments/week-03.md) | -        | -                                   |
+| Week   | Dates                                | Topic             |          📚 Assignments          | 🚀 Projects |            ✍️ Blog Posts            |
+| :----- | :----------------------------------- | :---------------- | :------------------------------: | :---------: | :---------------------------------: |
+| **00** | <small>27 Dec, 22 Jan</small>        | Orientation & Git |                —                 |      —      | [View](./blog-posts/orientation.md) |
+| **01** | <small>17 Jan, 18 Jan</small>        | Network & DNS     |                —                 |      —      |   [View](./blog-posts/week-01.md)   |
+| **02** | <small>24 Jan, 25 Jan</small>        | HTML & CSS        | [View](./assignments/week-02.md) |      —      |   [View](./blog-posts/week-02.md)   |
+| **03** | <small>29 Jan, 31 Jan, 1 Feb</small> | CSS Continued     | [View](./assignments/week-03.md) |      -      |                  —                  |
 
 ---
 
 ## 📂 How this Archive is Structured
 
-To keep my GitHub profile clean and deployment-friendly, this repository acts as a **Documentation Hub**:
+This repository acts as a central index for my work. To keep things modular and deployment-ready:
 
-- **Individual Repos:** Every project and every assignment has its own dedicated repository for easy hosting.
+- **Separate Repositories:** Every project and assignment lives in its own dedicated repository.
+- **Internal Navigation:** The Markdown files in this repo serve as quick-access directories. They contain direct links to the source code, live demos, and a visual preview (screenshot) of the work.
+- **Blog Archive:** The blog Markdown files provide a quick summary/cover image and a direct link to the full article on **Hashnode**.
 
 ---
 
