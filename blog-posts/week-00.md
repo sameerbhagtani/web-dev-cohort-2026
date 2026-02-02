@@ -1,4 +1,4 @@
-# ✍️ Orientation: Blog Posts
+# ✍️ Week 00 (Orientation): Blog Posts
 
 ## 0. Why Version Control Exists: A Video Game Perspective
 
@@ -21,4 +21,4 @@
 
 ---
 
-[← Back to Dashboard](../README.md)
+[<- Back to Dashboard](../README.md)
