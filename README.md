@@ -8,12 +8,12 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🗺️ Learning Roadmap
 
-| Week   | Dates                                | Topic             |          📚 Assignments          | 🚀 Projects |          ✍️ Blog Posts          |
-| :----- | :----------------------------------- | :---------------- | :------------------------------: | :---------: | :-----------------------------: |
-| **00** | <small>27 Dec, 22 Jan</small>        | Orientation & Git |                —                 |      —      | [View](./blog-posts/week-00.md) |
-| **01** | <small>17 Jan, 18 Jan</small>        | Network & DNS     |                —                 |      —      | [View](./blog-posts/week-01.md) |
-| **02** | <small>24 Jan, 25 Jan</small>        | HTML & CSS        | [View](./assignments/week-02.md) |      —      | [View](./blog-posts/week-02.md) |
-| **03** | <small>29 Jan, 31 Jan, 1 Feb</small> | CSS Continued     | [View](./assignments/week-03.md) |      -      |                —                |
+|  Week  |                Dates                 |       Topic       |          📚 Assignments          | 🚀 Projects |          ✍️ Blog Posts          |
+| :----: | :----------------------------------: | :---------------: | :------------------------------: | :---------: | :-----------------------------: |
+| **00** |    <small>27 Dec, 22 Jan</small>     | Orientation & Git |                —                 |      —      | [View](./blog-posts/week-00.md) |
+| **01** |    <small>17 Jan, 18 Jan</small>     |   Network & DNS   |                —                 |      —      | [View](./blog-posts/week-01.md) |
+| **02** |    <small>24 Jan, 25 Jan</small>     |    HTML & CSS     | [View](./assignments/week-02.md) |      —      | [View](./blog-posts/week-02.md) |
+| **03** | <small>29 Jan, 31 Jan, 1 Feb</small> |   CSS Continued   | [View](./assignments/week-03.md) |      -      |                —                |
 
 ---
 
@@ -29,7 +29,9 @@ This repository acts as a central index for my work. To keep things modular and 
 
 ## 🛠️ My Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
