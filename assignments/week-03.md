@@ -1,4 +1,4 @@
-# ✍️ Week 03 : 📚 Assignments
+# 📚 Week 03 : Assignments
 
 ## 0. Dev Tool Landing Page - Cursor
 
