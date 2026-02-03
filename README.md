@@ -23,7 +23,7 @@ This repository acts as a central index for my work. To keep things modular and 
 
 - **Separate Repositories:** Every project and assignment lives in its own dedicated repository.
 - **Internal Navigation:** The Markdown files in this repo serve as quick-access directories. They contain direct links to the source code, live demos, and a visual preview (screenshot) of the work.
-- **Blog Archive:** The blog Markdown files provide a quick summary/cover image and a direct link to the full article on **Hashnode**.
+- **Blog Archive:** The blog Markdown files provide a cover image and a direct link to the full article on **Hashnode**.
 
 ---
 
