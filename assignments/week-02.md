@@ -2,7 +2,7 @@
 
 ## 0. HTML Resume Page
 
-![Cover Image](./assets/0.png)
+![Web Page Screenshot](./assets/0.png)
 👉 **[View GitHub Repository](https://github.com/sameerbhagtani/html-resume-cohort)**  
 👉 **[View Live](https://sameerbhagtani.github.io/html-resume-cohort)**
 
