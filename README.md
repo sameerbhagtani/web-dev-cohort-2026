@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ☕ ChaiCode Web Development Cohort (2026)
 
 ### _The Ultimate Learning Archive & Proof of Work_
