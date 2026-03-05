@@ -8,16 +8,16 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🗺️ Learning Roadmap
 
-|  Week  |     Dates      |               Topic                |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
-| :----: | :------------: | :--------------------------------: | :------------------------------: | :---------------------------: | :-----------------------------: |
-| **00** |     27 Dec     |         Orientation & Git          |                -                 |               -               | [View](./blog-posts/week-00.md) |
-| **01** |  17 & 18 Jan   |           Network & DNS            |                -                 |               -               | [View](./blog-posts/week-01.md) |
-| **02** |  24 & 25 Jan   |             HTML & CSS             | [View](./assignments/week-02.md) |               -               | [View](./blog-posts/week-02.md) |
-| **03** | 31 Jan & 1 Feb |           CSS Continued            | [View](./assignments/week-03.md) |               -               |                -                |
-| **04** |   7 & 8 Feb    |          JS for Beginners          | [View](./assignments/week-04.md) | [View](./projects/week-04.md) |                -                |
-| **05** |  14 & 15 Feb   |           JS Essentials            |                -                 |               -               |                -                |
-| **06** |  21 & 22 Feb   |             OOP in JS              |                -                 |               -               | [View](./blog-posts/week-06.md) |
-| **07** | 28 Feb & 1 Mar | Async Programming & Closures in JS |                -                 |               -               | [View](./blog-posts/week-07.md) |
+|  Week  |      Dates      |               Topic                |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
+| :----: | :-------------: | :--------------------------------: | :------------------------------: | :---------------------------: | :-----------------------------: |
+| **00** |     27 Dec      |         Orientation & Git          |                -                 |               -               | [View](./blog-posts/week-00.md) |
+| **01** |   17 & 18 Jan   |           Network & DNS            |                -                 |               -               | [View](./blog-posts/week-01.md) |
+| **02** |   24 & 25 Jan   |             HTML & CSS             | [View](./assignments/week-02.md) |               -               | [View](./blog-posts/week-02.md) |
+| **03** | 31 Jan & 01 Feb |           CSS Continued            | [View](./assignments/week-03.md) |               -               |                -                |
+| **04** |   07 & 08 Feb   |          JS for Beginners          | [View](./assignments/week-04.md) | [View](./projects/week-04.md) |                -                |
+| **05** |   14 & 15 Feb   |           JS Essentials            |                -                 |               -               |                -                |
+| **06** |   21 & 22 Feb   |             OOP in JS              |                -                 |               -               | [View](./blog-posts/week-06.md) |
+| **07** | 28 Feb & 01 Mar | Async Programming & Closures in JS |                -                 |               -               | [View](./blog-posts/week-07.md) |
 
 ---
 
