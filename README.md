@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # ☕ ChaiCode Web Development Cohort (2026)
 
 ### _The Ultimate Learning Archive & Proof of Work_
@@ -32,6 +28,16 @@ This repository acts as a central index for my work. To keep things modular and 
 - **Separate Repositories:** Every project and assignment lives in its own dedicated repository.
 - **Internal Navigation:** The Markdown files in this repo serve as quick-access directories. They contain direct links to the source code, live demos, and a visual preview (screenshot) of the work.
 - **Blog Archive:** The blog Markdown files provide a cover image and a direct link to the full article on **Hashnode**.
+
+---
+
+## 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 

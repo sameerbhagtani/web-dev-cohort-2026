@@ -4,4 +4,4 @@ _Work in Progress..._
 
 ---
 
-[<- Back to Dashboard]({{ '/' | relative_url }})
+[<- Back to Dashboard](../README.md)

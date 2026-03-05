@@ -28,4 +28,4 @@
 
 ---
 
-[<- Back to Dashboard]({{ '/' | relative_url }})
+[<- Back to Dashboard](../README.md)
