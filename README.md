@@ -18,6 +18,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **05** |   14 & 15 Feb   |           JS Essentials            |                -                 |               -               |                -                |
 | **06** |   21 & 22 Feb   |             OOP in JS              |                -                 |               -               | [View](./blog-posts/week-06.md) |
 | **07** | 28 Feb & 01 Mar | Async Programming & Closures in JS |                -                 |               -               | [View](./blog-posts/week-07.md) |
+| **08** | 07 Mar & 08 Mar |                ...                 |                -                 |               -               |                -                |
 
 ---
 
