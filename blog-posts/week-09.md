@@ -1,4 +1,4 @@
-# ✍️ Week 06: Blog Posts
+# ✍️ Week 09: Blog Posts
 
 _Work in Progress..._
 
