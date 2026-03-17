@@ -1,4 +1,4 @@
-# 🚀 Week 04 : Projects
+# 🚀 Week 04: Projects
 
 ## 0. Peer Spotlight – Fundamentals & Building Blocks
 

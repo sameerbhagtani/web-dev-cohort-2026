@@ -1,4 +1,4 @@
-# ✍️ Week 00 (Orientation): Blog Posts
+# ✍️ Week 00: Blog Posts
 
 ## 0. Why Version Control Exists: A Video Game Perspective
 

@@ -1,4 +1,4 @@
-# 📚 Week 04 : Assignments
+# 📚 Week 04: Assignments
 
 ## 0. JS Conditionals Labs
 

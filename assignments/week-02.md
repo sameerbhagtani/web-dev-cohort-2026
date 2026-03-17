@@ -1,4 +1,4 @@
-# 📚 Week 02 : Assignments
+# 📚 Week 02: Assignments
 
 ## 0. HTML Resume Page
 

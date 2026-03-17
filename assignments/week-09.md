@@ -1,4 +1,4 @@
-# 📚 Week 09 : Assignments
+# 📚 Week 09: Assignments
 
 _Work in Progress..._
 
