@@ -1,6 +1,14 @@
 # 📚 Week 09: Assignments
 
-_Work in Progress..._
+## 0. JS OOP & Async. Programming Labs
+
+👉 **[View GitHub Repository](https://github.com/chaicodehq/js-async-oops-sameerbhagtani)**
+
+---
+
+## 1. JS DOM Labs
+
+👉 **[View GitHub Repository](https://github.com/chaicodehq/js-dom-sameerbhagtani)**
 
 ---
 
