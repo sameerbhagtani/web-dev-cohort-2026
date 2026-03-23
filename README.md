@@ -20,7 +20,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **07** | 28 Feb & 01 Mar |       Async. Programming & DOM in JS        |                -                 |               -               | [View](./blog-posts/week-07.md) |
 | **08** |   07 & 08 Mar   | TypeScript & Intro. to Node.js & Express.js |                -                 |               -               |                -                |
 | **09** |   14 & 15 Mar   |      Node.js Architecture & Express.js      | [View](./assignments/week-09.md) | [View](./projects/week-09.md) | [View](./blog-posts/week-09.md) |
-| **10** |   21 & 22 Mar   |                     ...                     |                -                 | [View](./projects/week-10.md) |                -                |
+| **10** |   21 & 22 Mar   |            Building RESTful APIs            |                -                 | [View](./projects/week-10.md) |                -                |
 
 ---
 
