@@ -8,7 +8,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🗺️ Learning Roadmap
 
-|  Week  |      Dates      |                    Topic                    |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
+|  Week  |   Class Dates   |                    Topic                    |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
 | :----: | :-------------: | :-----------------------------------------: | :------------------------------: | :---------------------------: | :-----------------------------: |
 | **00** |     27 Dec      |              Orientation & Git              |                -                 |               -               | [View](./blog-posts/week-00.md) |
 | **01** |   17 & 18 Jan   |                Network & DNS                |                -                 |               -               | [View](./blog-posts/week-01.md) |
@@ -21,6 +21,9 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **08** |   07 & 08 Mar   | TypeScript & Intro. to Node.js & Express.js |                -                 |               -               |                -                |
 | **09** |   14 & 15 Mar   |      Node.js Architecture & Express.js      | [View](./assignments/week-09.md) | [View](./projects/week-09.md) | [View](./blog-posts/week-09.md) |
 | **10** |   21 & 22 Mar   |            Building RESTful APIs            |                -                 | [View](./projects/week-10.md) |                -                |
+| **11** |   28 & 29 Mar   |       Authentication & Authorization        |                -                 |               -               |                -                |
+| **12** |   04 & 05 Apr   |                     SQL                     |                -                 |               -               |                -                |
+| **13** |   11 & 12 Apr   |                File Handling                | [View](./assignments/week-13.md) | [View](./projects/week-13.md) | [View](./blog-posts/week-13.md) |
 
 ---
 
