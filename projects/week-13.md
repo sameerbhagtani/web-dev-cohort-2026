@@ -2,7 +2,9 @@
 
 ## 0. Book My Ticket
 
+![Web Page Screenshot](./assets/2.png)
 👉 **[View GitHub Repository](https://github.com/sameerbhagtani/book-my-ticket)**
+👉 **[View Live](https://book-my-ticket-t1uv.onrender.com)**
 
 ---
 
