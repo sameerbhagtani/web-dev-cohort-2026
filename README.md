@@ -8,7 +8,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🗺️ Learning Roadmap
 
-|  Week  |   Class Dates   |                    Topic                    |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
+|  Week  |   Class Dates   |                Class Topics                 |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
 | :----: | :-------------: | :-----------------------------------------: | :------------------------------: | :---------------------------: | :-----------------------------: |
 | **00** |     27 Dec      |              Orientation & Git              |                -                 |               -               | [View](./blog-posts/week-00.md) |
 | **01** |   17 & 18 Jan   |                Network & DNS                |                -                 |               -               | [View](./blog-posts/week-01.md) |
@@ -24,6 +24,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **11** |   28 & 29 Mar   |       Authentication & Authorization        |                -                 |               -               |                -                |
 | **12** |   04 & 05 Apr   |                     SQL                     |                -                 |               -               |                -                |
 | **13** |   11 & 12 Apr   |                File Handling                | [View](./assignments/week-13.md) | [View](./projects/week-13.md) | [View](./blog-posts/week-13.md) |
+| **14** |   18 & 19 Apr   |              OIDC & OAuth 2.0               |                -                 |               -               |                -                |
 
 ---
 
@@ -47,6 +48,8 @@ This repository acts as a central index for my work. To keep things modular and 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

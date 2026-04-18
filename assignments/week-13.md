@@ -6,4 +6,22 @@
 
 ---
 
+## 1. Auth. API Labs
+
+👉 **[View GitHub Repository](https://github.com/chaicodehq/auth-api-sameerbhagtani)**
+
+---
+
+## 2. First CRUD App Labs
+
+👉 **[View GitHub Repository](https://github.com/chaicodehq/first-crud-app-sameerbhagtani)**
+
+---
+
+## 3. Image Upload API Labs
+
+👉 **[View GitHub Repository](https://github.com/chaicodehq/image-upload-api-sameerbhagtani)**
+
+---
+
 [<- Back to Dashboard](../README.md)
