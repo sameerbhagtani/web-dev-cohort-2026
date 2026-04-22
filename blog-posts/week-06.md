@@ -1,6 +1,9 @@
 # ✍️ Week 06: Blog Posts
 
-_Work in Progress..._
+## 0. Operators: Welcome to the JavaScript Cafe
+
+![Cover Image](./assets/13.png)
+👉 **[Read on Hashnode](https://blog.sameerbhagtani.dev/operators-in-javascript)**
 
 ---
 
