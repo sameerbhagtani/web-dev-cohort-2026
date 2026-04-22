@@ -24,7 +24,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **11** |   28 & 29 Mar   |       Authentication & Authorization        |                -                 |               -               |                -                |
 | **12** |   04 & 05 Apr   |                     SQL                     |                -                 |               -               |                -                |
 | **13** |   11 & 12 Apr   |                File Handling                | [View](./assignments/week-13.md) | [View](./projects/week-13.md) | [View](./blog-posts/week-13.md) |
-| **14** |   18 & 19 Apr   |              OIDC & OAuth 2.0               |                -                 |               -               |                -                |
+| **14** |   18 & 19 Apr   |              OIDC & WebSockets              |                -                 |               -               | [View](./blog-posts/week-14.md) |
 
 ---
 
