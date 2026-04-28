@@ -6,15 +6,15 @@
 
 ---
 
-## 1. Auth. API Labs
+## 1. First CRUD App Labs
 
-👉 **[View GitHub Repository](https://github.com/chaicodehq/auth-api-sameerbhagtani)**
+👉 **[View GitHub Repository](https://github.com/chaicodehq/first-crud-app-sameerbhagtani)**
 
 ---
 
-## 2. First CRUD App Labs
+## 2. Auth. API Labs
 
-👉 **[View GitHub Repository](https://github.com/chaicodehq/first-crud-app-sameerbhagtani)**
+👉 **[View GitHub Repository](https://github.com/chaicodehq/auth-api-sameerbhagtani)**
 
 ---
 

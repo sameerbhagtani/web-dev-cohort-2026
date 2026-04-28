@@ -17,14 +17,15 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **04** |   07 & 08 Feb   |              JS for Beginners               | [View](./assignments/week-04.md) | [View](./projects/week-04.md) |                -                |
 | **05** |   14 & 15 Feb   |                JS Essentials                |                -                 |               -               |                -                |
 | **06** |   21 & 22 Feb   |                  OOP in JS                  |                -                 |               -               | [View](./blog-posts/week-06.md) |
-| **07** | 28 Feb & 01 Mar |       Async. Programming & DOM in JS        |                -                 |               -               | [View](./blog-posts/week-07.md) |
+| **07** | 28 Feb & 01 Mar |       Async. Programming & DOM in JS        |                -                 | [View](./projects/week-07.md) | [View](./blog-posts/week-07.md) |
 | **08** |   07 & 08 Mar   | TypeScript & Intro. to Node.js & Express.js |                -                 |               -               |                -                |
 | **09** |   14 & 15 Mar   |      Node.js Architecture & Express.js      | [View](./assignments/week-09.md) | [View](./projects/week-09.md) | [View](./blog-posts/week-09.md) |
 | **10** |   21 & 22 Mar   |            Building RESTful APIs            |                -                 | [View](./projects/week-10.md) |                -                |
 | **11** |   28 & 29 Mar   |       Authentication & Authorization        |                -                 |               -               |                -                |
 | **12** |   04 & 05 Apr   |                     SQL                     |                -                 |               -               |                -                |
 | **13** |   11 & 12 Apr   |                File Handling                | [View](./assignments/week-13.md) | [View](./projects/week-13.md) | [View](./blog-posts/week-13.md) |
-| **14** |   18 & 19 Apr   |              OIDC & WebSockets              |                -                 |               -               | [View](./blog-posts/week-14.md) |
+| **14** |   18 & 19 Apr   |              OIDC & WebSockets              |                -                 | [View](./projects/week-14.md) | [View](./blog-posts/week-14.md) |
+| **15** |   25 & 26 Apr   |        Redis, Rate Limiting & Kafka         |                -                 | [View](./projects/week-15.md) |                -                |
 
 ---
 
@@ -50,6 +51,8 @@ This repository acts as a central index for my work. To keep things modular and 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
