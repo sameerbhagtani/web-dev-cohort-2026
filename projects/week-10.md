@@ -10,9 +10,10 @@
 
 ---
 
-## 1. Kanban Board
+## 1. Kanban Board (Mini Project)
 
-👉 **[View GitHub Repository](https://github.com/sameerbhagtani/kanban)**
+👉 **[View GitHub Repository](https://github.com/sameerbhagtani/kanban)**  
+👉 **[View Live](https://sameerbhagtani.github.io/kanban)**
 
 ---
 
