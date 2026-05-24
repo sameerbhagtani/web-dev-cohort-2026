@@ -6,6 +6,12 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ---
 
+## 🔗 Connect with Me
+
+- https://inapp.app/sameer
+
+---
+
 ## 🗺️ Learning Roadmap
 
 |  Week  |   Class Dates   |                Class Topics                 |          📚 Assignments          |          🚀 Projects          |          ✍️ Blog Posts          |
@@ -26,33 +32,10 @@ This repository is the central "Source of Truth" for my journey through the Chai
 | **13** |   11 & 12 Apr   |                File Handling                | [View](./assignments/week-13.md) | [View](./projects/week-13.md) | [View](./blog-posts/week-13.md) |
 | **14** |   18 & 19 Apr   |              OIDC & WebSockets              |                -                 | [View](./projects/week-14.md) | [View](./blog-posts/week-14.md) |
 | **15** |   25 & 26 Apr   |        Redis, Rate Limiting & Kafka         |                -                 | [View](./projects/week-15.md) |                -                |
-
----
-
-## 📂 How this Archive is Structured
-
-This repository acts as a central index for my work. To keep things modular and deployment-ready:
-
-- **Separate Repositories:** Every project and assignment lives in its own dedicated repository.
-- **Internal Navigation:** The Markdown files in this repo serve as quick-access directories. They contain direct links to the source code, live demos, and a visual preview (screenshot) of the work.
-- **Blog Archive:** The blog Markdown files provide a cover image and a direct link to the full article on **Hashnode**.
-
----
-
-## 🛠️ My Tech Stack
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+| **16** |   02 & 03 May   |              React Foundations              |                -                 | [View](./projects/week-16.md) |                -                |
+| **17** |   09 & 10 May   |               React Internals               |                -                 | [View](./projects/week-17.md) |                -                |
+| **18** |   16 & 17 May   |   tRPC, Monorepos & Form Builder Project    |                -                 | [View](./projects/week-18.md) |                -                |
+| **19** |   23 & 24 May   |                   Next.js                   |                -                 |               -               |                -                |
 
 ---
 

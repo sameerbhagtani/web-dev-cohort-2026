@@ -2,7 +2,7 @@
 
 ## 0. AtomicChai - Custom Tailwind CSS Engine
 
-![Thumbnail Image](./assets/1.png)
+![Thumbnail Image](./assets/5.png)
 👉 **[View GitHub Repository](https://github.com/sameerbhagtani/atomic-chai)**  
 👉 **[View NPM Package](https://npmjs.com/package/atomic-chai)**  
 👉 **[View Landing Page](https://sameerbhagtani.github.io/atomic-chai-website)**  
@@ -12,6 +12,7 @@
 
 ## 1. Kanban Board (Mini Project)
 
+![Web Page Screenshot](./assets/6.png)
 👉 **[View GitHub Repository](https://github.com/sameerbhagtani/kanban)**  
 👉 **[View Live](https://sameerbhagtani.github.io/kanban)**
 
