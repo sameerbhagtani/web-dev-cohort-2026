@@ -8,7 +8,7 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🔗 Connect with Me
 
-- https://inapp.app/sameer
+https://inapp.app/sameer
 
 ---
 
